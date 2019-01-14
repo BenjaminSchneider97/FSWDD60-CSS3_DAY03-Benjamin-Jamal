@@ -39,3 +39,13 @@ hr{
 	align-items: flex-end;
 	flex-direction: column;
 }
+.rainbow:hover{
+	animation: 4s rainbow linear infinite;
+}
+@keyframes rainbow{
+	0% {color:red;}
+	25% {color: green;}
+	50% {color: yellow;}
+	75% {color: blue;}
+	100% {color:red;}
+}
