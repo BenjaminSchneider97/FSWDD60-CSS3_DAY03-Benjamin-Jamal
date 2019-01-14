@@ -9,13 +9,18 @@ body{
 	font-size: 25px;
 	color: white;
 }
+.wrapper div{
+	cursor: pointer;
+}
 .allimages{
 	display: flex;
 	justify-content: space-around;
-	margin-top: 200px;
+	flex-wrap: wrap;
+	margin-top: 180px;
 }
 .img1{
 	transition: 3s;
+	margin-bottom: 150px;
 }
 .img2{
 	transition: 3s;
@@ -30,4 +35,5 @@ p{
 	font-size: 25px;
 	font-family: cinzel;
 	color: red;
+	font-weight: bold;
 }
