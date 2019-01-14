@@ -14,6 +14,12 @@
 	font-size: 40px;
 	color: #0984e3;
 }
+.page5 a:hover{
+	font-size: 40px;
+	color: #ff7f50;
+}
+
+
 ul li {
 	padding: 15px 0px;
 }
