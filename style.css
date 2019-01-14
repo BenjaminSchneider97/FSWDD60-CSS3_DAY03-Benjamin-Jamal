@@ -1,4 +1,12 @@
-a:hover{
- font-size: 40px;
- color: green;
+.page1 a:hover{
+	font-size: 40px;
+ 	color: #7bed9f;
+}
+.page2 a:hover{
+	font-size: 40px;
+	color: #ff4757;
+}
+.page3 a:hover{
+	font-size: 40px;
+	color: #2f3542;
 }
