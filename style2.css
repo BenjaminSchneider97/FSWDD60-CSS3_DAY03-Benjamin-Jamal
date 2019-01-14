@@ -1,11 +1,13 @@
 body{
-	margin: 15px 10%;
+	background-image: url('https://cdn.pixabay.com/photo/2018/10/05/09/45/cobweb-3725540__480.jpg');
+	  margin:  15px 10%;
+	  background-size: cover;
 }
 .wrapper{
 	display: flex;
 	justify-content: space-around;
-	font-size: 20px;
-	color: #0984e3;
+	font-size: 25px;
+	color: white;
 }
 .allimages{
 	display: flex;
@@ -23,4 +25,9 @@ body{
 }
 .img2:hover{
 	transform: rotate(-360deg);
+}
+p{
+	font-size: 25px;
+	font-family: cinzel;
+	color: red;
 }
