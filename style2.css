@@ -1,7 +1,7 @@
 body{
 	background-image: url('https://cdn.pixabay.com/photo/2018/10/05/09/45/cobweb-3725540__480.jpg');
-	  margin:  15px 10%;
-	  background-size: cover;
+	margin:  15px 10%;
+	background-size: cover;
 }
 .wrapper{
 	display: flex;
@@ -18,9 +18,9 @@ body{
 	flex-wrap: wrap;
 	margin-top: 180px;
 }
+
 .img1{
 	transition: 3s;
-	margin-bottom: 150px;
 }
 .img2{
 	transition: 3s;
